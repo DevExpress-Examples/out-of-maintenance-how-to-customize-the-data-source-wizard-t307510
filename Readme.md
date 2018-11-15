@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSourceWizardCustomizationService.cs](./CS/CustomizeWizardExample/DataSourceWizardCustomizationService.cs) (VB: [DataSourceWizardCustomizationService.vb](./VB/CustomizeWizardExample/DataSourceWizardCustomizationService.vb))
+* [Form1.cs](./CS/CustomizeWizardExample/Form1.cs) (VB: [Form1.vb](./VB/CustomizeWizardExample/Form1.vb))
+<!-- default file list end -->
 # How to customize the Data Source Wizard
 
 
